@@ -2,7 +2,7 @@
 
 Tutorial complet pour fine-tuner le modèle GPT-2 français (`asi/gpt-fr-cased-base`) sur vos propres données, directement dans Google Colab avec un GPU gratuit.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VOTRE-USERNAME/nanochat-french-tutorial/blob/main/nanochat_french_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cladjidane/nanochat-french-tutorial/blob/main/nanochat_french_colab.ipynb)
 
 ## 🎯 Objectif
 
@@ -33,7 +33,7 @@ Aucune installation locale requise ! Tout se fait dans le navigateur.
 ### Option 2 : Cloner et adapter localement
 
 ```bash
-git clone https://github.com/VOTRE-USERNAME/nanochat-french-tutorial.git
+git clone https://github.com/cladjidane/nanochat-french-tutorial.git
 cd nanochat-french-tutorial
 
 # Ouvrir le notebook dans Jupyter/VSCode
@@ -194,4 +194,4 @@ des patterns dans les données et les utilisent pour faire des prédictions..."
 
 **Made with ❤️ for the French AI community**
 
-Pour toute question, ouvrez une [issue](https://github.com/VOTRE-USERNAME/nanochat-french-tutorial/issues) !
+Pour toute question, ouvrez une [issue](https://github.com/cladjidane/nanochat-french-tutorial/issues) !
