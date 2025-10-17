@@ -119,7 +119,7 @@ C'est **360× plus rapide** ! 🚀
 
 ## 🛠️ Technologies utilisées
 
-- [Nanochat](https://github.com/keller-jordan/nanochat) - Framework de training LLM minimaliste
+- [Nanochat](https://github.com/karpathy/nanochat) - Framework de training LLM minimaliste
 - [GPT-2 French](https://huggingface.co/asi/gpt-fr-cased-base) - Modèle de base pré-entraîné
 - [Google Colab](https://colab.research.google.com/) - Environnement GPU gratuit
 - [PyTorch](https://pytorch.org/) - Framework deep learning
@@ -154,7 +154,7 @@ Les contributions sont les bienvenues ! Pour contribuer :
 
 ## 📚 Ressources complémentaires
 
-- [Documentation Nanochat](https://github.com/keller-jordan/nanochat)
+- [Documentation Nanochat](https://github.com/karpathy/nanochat)
 - [GPT-2 Paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 - [Hugging Face Transformers](https://huggingface.co/docs/transformers)
 - [Google Colab Tips](https://colab.research.google.com/notebooks/welcome.ipynb)
@@ -163,11 +163,11 @@ Les contributions sont les bienvenues ! Pour contribuer :
 
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
-Le projet [Nanochat](https://github.com/keller-jordan/nanochat) original est également sous licence MIT.
+Le projet [Nanochat](https://github.com/karpathy/nanochat) original est également sous licence MIT.
 
 ## 🙏 Remerciements
 
-- [keller-jordan](https://github.com/keller-jordan) pour le framework Nanochat
+- [Andrej Karpathy](https://github.com/karpathy) pour le framework Nanochat
 - [asi](https://huggingface.co/asi) pour le modèle GPT-2 français pré-entraîné
 - La communauté Hugging Face pour les outils et modèles
 
