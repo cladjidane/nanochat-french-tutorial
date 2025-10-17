@@ -70,6 +70,8 @@ def load_model(source, device, phase, model_tag=None, step=None):
         # ...
 ```
 
+**Note** : Le nom correct du modèle Vigostral est `bofenghuang/vigostral-7b-chat` (pas `vigostral/vigostral-7b-chat`).
+
 ---
 
 ### Option B : Fork nanochat et créer nanochat-french

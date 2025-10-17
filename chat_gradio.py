@@ -17,7 +17,7 @@ from peft import PeftModel
 import os
 
 # Configuration
-MODEL_NAME = "vigostral/vigostral-7b-chat"
+MODEL_NAME = "bofenghuang/vigostral-7b-chat"
 LORA_ADAPTER_PATH = "./vigostral-finetuned-final"  # Chemin vers vos adaptateurs LoRA
 
 # Détection du device

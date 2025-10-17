@@ -16,7 +16,7 @@ Vous vouliez utiliser **nanochat** (le projet d'Andrej Karpathy) avec un modèle
 
 1. **Ouvrez le notebook Colab** :
    - Fichier : `vigostral_finetune_colab.ipynb`
-   - Lien direct : [À publier sur GitHub]
+   - Lien direct : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cladjidane/nanochat-french-tutorial/blob/main/vigostral_finetune_colab.ipynb)
 
 2. **Activez le GPU T4** :
    - Runtime → Change runtime type → T4 GPU
